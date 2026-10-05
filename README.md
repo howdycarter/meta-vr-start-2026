@@ -23,7 +23,7 @@ Decide GO/NO-GO on entering the Meta VR Start Developer Competition 2026 ($1M, 2
 - Original work; core experience entrant-built (thin wrappers around existing services are penalized)
 
 ## Constraints
-- **Gate 1 — enrollment:** requires Meta developer sign-in + VR Start program membership by submission time. Currently blocked, awaiting Chris.
+- **Gate 1 — enrollment:** requires Meta developer sign-in + VR Start program membership by submission time. Currently blocked on Meta identity selection, awaiting Chris.
 - **Gate 2 — hardware:** no Quest device in hand; judges test on device. XR Simulator exists but is not a substitute for on-device hand-tracking iteration.
 - **Gate 3 — skill gap:** no XR background. Hand-tracking UX, spatial design, and Quest performance budgets are specialty skills.
 - One entry per individual (as solo entrant or as one team's representative)
